@@ -232,14 +232,6 @@ pyserial>=3.5           # Arduino communication
 picamera2               # Raspberry Pi camera (optional)
 ```
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-Contributions are welcome! Please submit issues and pull requests to improve the system.
-
 ## Author
 
 **aguCompbbky**
